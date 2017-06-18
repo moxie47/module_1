@@ -1,2 +1,5 @@
-testing for IT Exploration Camp...
+Module 1 contents:
+
+- Copy of Module 1 slides
+- 
 
